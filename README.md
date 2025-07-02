@@ -44,3 +44,8 @@ Scanner
 *Exception Handling*:
 try-catch blocks are implemented to handle I/O exceptions, ensuring robustness and user-friendly error reporting.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5eb10c71-4251-494a-ad53-4a2f7306d3e8)
+
